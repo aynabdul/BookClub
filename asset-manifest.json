@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/BookClub/static/css/main.a2fa5b7c.css",
-    "main.js": "/BookClub/static/js/main.9830f682.js",
-    "static/media/img-2.jpg": "/BookClub/static/media/img-2.e324dc16c6d9a169bf4e.jpg",
-    "static/media/img-9.jpg": "/BookClub/static/media/img-9.a96ec7e2a01ac29e7487.jpg",
-    "static/media/img-8.jpg": "/BookClub/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
-    "static/media/LSH___11.TTF": "/BookClub/static/media/LSH___11.36282f93bc384feb4851.TTF",
-    "index.html": "/BookClub/index.html",
-    "main.a2fa5b7c.css.map": "/BookClub/static/css/main.a2fa5b7c.css.map",
-    "main.9830f682.js.map": "/BookClub/static/js/main.9830f682.js.map"
+    "main.css": "/Bookclub/static/css/main.8170c7bb.css",
+    "main.js": "/Bookclub/static/js/main.efb360ce.js",
+    "static/media/cabinetbg2.jpg": "/Bookclub/static/media/cabinetbg2.a81859c8b8aabf5bc6e5.jpg",
+    "static/media/img-8.jpg": "/Bookclub/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "static/media/LSH___11.TTF": "/Bookclub/static/media/LSH___11.36282f93bc384feb4851.TTF",
+    "static/media/cabinetbg5.jpg": "/Bookclub/static/media/cabinetbg5.d25715a7a4e2ce07f54a.jpg",
+    "static/media/announcementbg1.jpg": "/Bookclub/static/media/announcementbg1.69049b0df64b9cddeeaa.jpg",
+    "index.html": "/Bookclub/index.html",
+    "main.8170c7bb.css.map": "/Bookclub/static/css/main.8170c7bb.css.map",
+    "main.efb360ce.js.map": "/Bookclub/static/js/main.efb360ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2fa5b7c.css",
-    "static/js/main.9830f682.js"
+    "static/css/main.8170c7bb.css",
+    "static/js/main.efb360ce.js"
   ]
 }
