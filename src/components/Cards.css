@@ -175,19 +175,40 @@
       margin-bottom: 2rem;
     }
   }
-  @media only screen and (max-width: 1024px) {
-    .about-us {
-      flex-direction: column;
-      align-items: center;
-      text-align: center;
-    }
-  
-    .about-us-left {
-      margin-bottom: 40px;
-    }
-  
-    .about-us-right {
-      width: 100%;
-      padding: 0;
-    }
+  @media only screen and (max-width: 768px) {
+/* For screens smaller than 768px */
+
+  .about-us {
+    flex-direction: column;
+    margin-bottom: 2rem;
   }
+
+  .about-us-left {
+    margin-bottom: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .about-us-right {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .logo {
+    width: 150px;
+    height: 150px;
+  }
+
+  .society-name {
+    font-size: 24px;
+  }
+
+  .society-location {
+    font-size: 14px;
+  }
+
+  .society-intro {
+    font-size: 16px;
+  }
+}
+  
